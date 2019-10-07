@@ -1,0 +1,38 @@
+//============================================================================
+// Name        : Proj12.cpp
+// Author      : 21153
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+class percentage{
+	int num;
+	float per[50];
+public:
+
+	void get_array(){
+		cout<<"Enter no of students: "<<endl;
+		cin>>num;
+		cout<<"Enter the percentage of students: "<<endl;
+		for(int i=0; i<num; i++){
+			cin>>per[i];
+		}
+	}
+
+	void selection_sort(){
+
+	}
+
+	void bubble_sort(){
+
+	}
+};
+
+int main() {
+
+	return 0;
+}

@@ -1,0 +1,17 @@
+08:44:01 **** Incremental Build of configuration Debug for project MiniPoject ****
+make all 
+Building file: ../src/MiniPoject.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MiniPoject.d" -MT"src/MiniPoject.d" -o "src/MiniPoject.o" "../src/MiniPoject.cpp"
+../src/MiniPoject.cpp: In member function ‘void customer::delete_customer()’:
+../src/MiniPoject.cpp:192:9: warning: variable ‘i’ set but not used [-Wunused-but-set-variable]
+     int i=1;
+         ^
+../src/MiniPoject.cpp: At global scope:
+../src/MiniPoject.cpp:232:1: error: expected unqualified-id before ‘{’ token
+ {
+ ^
+make: *** [src/MiniPoject.o] Error 1
+
+08:44:02 Build Finished (took 815ms)
+

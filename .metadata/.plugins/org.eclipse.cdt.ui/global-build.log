@@ -1,0 +1,2185 @@
+13:58:16 **** Incremental Build of configuration Debug for project new ****
+make all 
+Building file: ../new.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"new.d" -MT"new.d" -o "new.o" "../new.cpp"
+../new.cpp: In function ‘int main()’:
+../new.cpp:30:79: warning: format ‘%s’ expects argument of type ‘char*’, but argument 3 has type ‘char (*)[20]’ [-Wformat=]
+Finished building: ../new.cpp
+   scanf("%d %s %d %d", &s[i].rollno, &s[i].name, &s[i].marks, &s[i].attendance);
+ 
+                                                                               ^
+Building target: new
+Invoking: GCC C++ Linker
+g++  -o "new"  ./new.o   
+Finished building target: new
+ 
+13:58:18 **** Incremental Build of configuration Debug for project Assingment_01 ****
+make all 
+make: Nothing to be done for `all'.
+13:58:18 **** Incremental Build of configuration Debug for project Proj2 ****
+make all 
+make: Nothing to be done for `all'.
+13:58:18 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+make: Nothing to be done for `all'.
+13:58:18 **** Incremental Build of configuration Debug for project Proj4 ****
+make all 
+make: Nothing to be done for `all'.
+13:58:18 **** Incremental Build of configuration Debug for project new ****
+make all 
+make: Nothing to be done for `all'.
+14:33:03 **** Incremental Build of configuration Debug for project Assingment_01 ****
+make all 
+make: Nothing to be done for `all'.
+14:33:04 **** Incremental Build of configuration Debug for project Proj2 ****
+make all 
+make: Nothing to be done for `all'.
+14:33:05 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+Building file: ../src/Proj3.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj3.d" -MT"src/Proj3.d" -o "src/Proj3.o" "../src/Proj3.cpp"
+../src/Proj3.cpp: In constructor ‘Matrix::Matrix()’:
+../src/Proj3.cpp:20:16: warning: extended initializer lists only available with -std=c++11 or -std=gnu++11 [enabled by default]
+Finished building: ../src/Proj3.cpp
+   arr[10][10]={};
+                ^
+ 
+Building target: Proj3
+Invoking: GCC C++ Linker
+g++  -o "Proj3"  ./src/Proj3.o   
+Finished building target: Proj3
+ 
+14:33:08 **** Incremental Build of configuration Debug for project Proj4 ****
+make all 
+make: Nothing to be done for `all'.
+14:33:08 **** Incremental Build of configuration Debug for project new ****
+make all 
+make: Nothing to be done for `all'.
+14:33:15 **** Incremental Build of configuration Debug for project Assingment_01 ****
+make all 
+make: Nothing to be done for `all'.
+14:33:15 **** Incremental Build of configuration Debug for project Proj2 ****
+make all 
+make: Nothing to be done for `all'.
+14:33:15 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+make: Nothing to be done for `all'.
+14:33:15 **** Incremental Build of configuration Debug for project Proj4 ****
+make all 
+make: Nothing to be done for `all'.
+14:33:15 **** Incremental Build of configuration Debug for project new ****
+make all 
+make: Nothing to be done for `all'.
+14:34:10 **** Incremental Build of configuration Debug for project new ****
+make all 
+make: Nothing to be done for `all'.
+14:35:07 **** Incremental Build of configuration Debug for project Assingment_01 ****
+make all 
+make: Nothing to be done for `all'.
+14:35:08 **** Incremental Build of configuration Debug for project Proj2 ****
+make all 
+make: Nothing to be done for `all'.
+14:35:08 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+make: Nothing to be done for `all'.
+14:35:09 **** Incremental Build of configuration Debug for project Proj4 ****
+make all 
+make: Nothing to be done for `all'.
+14:35:09 **** Incremental Build of configuration Debug for project new ****
+make all 
+make: Nothing to be done for `all'.
+13:03:32 **** Incremental Build of configuration Debug for project Proj4 ****
+make all 
+make: Nothing to be done for `all'.
+08:25:30 **** Build of configuration Debug for project Practice ****
+make all 
+Building file: ../src/Practice.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Practice.d" -MT"src/Practice.d" -o "src/Practice.o" "../src/Practice.cpp"
+Finished building: ../src/Practice.cpp
+ 
+Building target: Practice
+Invoking: GCC C++ Linker
+g++  -o "Practice"  ./src/Practice.o   
+Finished building target: Practice
+ 
+08:28:28 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+Building file: ../src/Practice.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Practice.d" -MT"src/Practice.d" -o "src/Practice.o" "../src/Practice.cpp"
+Finished building: ../src/Practice.cpp
+ 
+Building target: Practice
+Invoking: GCC C++ Linker
+g++  -o "Practice"  ./src/Practice.o   
+Finished building target: Practice
+ 
+08:28:35 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+make: Nothing to be done for `all'.
+08:28:44 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+make: Nothing to be done for `all'.
+08:28:56 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+make: Nothing to be done for `all'.
+08:29:19 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+make: Nothing to be done for `all'.
+08:29:32 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+make: Nothing to be done for `all'.
+08:29:40 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+make: Nothing to be done for `all'.
+08:29:50 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+make: Nothing to be done for `all'.
+08:29:53 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+make: Nothing to be done for `all'.
+08:29:57 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+make: Nothing to be done for `all'.
+08:30:04 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+make: Nothing to be done for `all'.
+08:30:05 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+make: Nothing to be done for `all'.
+08:30:07 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+make: Nothing to be done for `all'.
+08:30:11 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+make: Nothing to be done for `all'.
+08:30:12 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+make: Nothing to be done for `all'.
+08:30:13 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+make: Nothing to be done for `all'.
+08:30:13 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+make: Nothing to be done for `all'.
+08:30:24 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+make: Nothing to be done for `all'.
+08:31:11 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+make: Nothing to be done for `all'.
+08:31:30 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+make: Nothing to be done for `all'.
+08:32:26 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+make: Nothing to be done for `all'.
+08:36:02 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+Building file: ../src/Practice.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Practice.d" -MT"src/Practice.d" -o "src/Practice.o" "../src/Practice.cpp"
+Finished building: ../src/Practice.cpp
+ 
+Building target: Practice
+Invoking: GCC C++ Linker
+g++  -o "Practice"  ./src/Practice.o   
+Finished building target: Practice
+ 
+08:36:09 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+make: Nothing to be done for `all'.
+08:36:19 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+make: Nothing to be done for `all'.
+09:47:11 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+Building file: ../src/Practice.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Practice.d" -MT"src/Practice.d" -o "src/Practice.o" "../src/Practice.cpp"
+../src/Practice.cpp: In function ‘void push(node**, int)’:
+../src/Practice.cpp:13:6: error: ‘int node::data’ is private
+  int data;
+      ^
+../src/Practice.cpp:19:12: error: within this context
+  new_node->data = new_data;
+            ^
+../src/Practice.cpp:14:8: error: ‘node* node::next’ is private
+  node* next;
+        ^
+../src/Practice.cpp:20:12: error: within this context
+  new_node->next = (*head_ref);
+            ^
+../src/Practice.cpp: In function ‘void insertAfter(node*, int)’:
+../src/Practice.cpp:13:6: error: ‘int node::data’ is private
+  int data;
+      ^
+../src/Practice.cpp:30:12: error: within this context
+  new_node->data = new_data;
+            ^
+../src/Practice.cpp:14:8: error: ‘node* node::next’ is private
+  node* next;
+        ^
+../src/Practice.cpp:31:12: error: within this context
+  new_node->next = prev_node->next;
+            ^
+../src/Practice.cpp:14:8: error: ‘node* node::next’ is private
+  node* next;
+        ^
+../src/Practice.cpp:31:30: error: within this context
+  new_node->next = prev_node->next;
+                              ^
+../src/Practice.cpp:14:8: error: ‘node* node::next’ is private
+  node* next;
+        ^
+../src/Practice.cpp:32:13: error: within this context
+  prev_node->next = new_node;
+             ^
+../src/Practice.cpp: In function ‘void append(node**, int)’:
+../src/Practice.cpp:13:6: error: ‘int node::data’ is private
+  int data;
+      ^
+../src/Practice.cpp:38:12: error: within this context
+  new_node->data = new_data;
+            ^
+../src/Practice.cpp:14:8: error: ‘node* node::next’ is private
+  node* next;
+        ^
+../src/Practice.cpp:39:12: error: within this context
+  new_node->next = NULL;
+            ^
+../src/Practice.cpp:14:8: error: ‘node* node::next’ is private
+  node* next;
+        ^
+../src/Practice.cpp:44:14: error: within this context
+  while(last->next != NULL)
+              ^
+../src/Practice.cpp:14:8: error: ‘node* node::next’ is private
+  node* next;
+        ^
+../src/Practice.cpp:45:16: error: within this context
+   last = last->next;
+                ^
+../src/Practice.cpp:14:8: error: ‘node* node::next’ is private
+  node* next;
+        ^
+../src/Practice.cpp:46:8: error: within this context
+  last->next = new_node;
+        ^
+../src/Practice.cpp: In function ‘void print(node*)’:
+../src/Practice.cpp:13:6: error: ‘int node::data’ is private
+  int data;
+      ^
+../src/Practice.cpp:52:17: error: within this context
+   cout<<" "<<n->data;
+                 ^
+../src/Practice.cpp:14:8: error: ‘node* node::next’ is private
+  node* next;
+        ^
+../src/Practice.cpp:53:10: error: within this context
+   n = n->next;
+          ^
+../src/Practice.cpp: In function ‘int main()’:
+../src/Practice.cpp:14:8: error: ‘node* node::next’ is private
+  node* next;
+        ^
+../src/Practice.cpp:63:20: error: within this context
+  insertAfter(head->next, 8);
+                    ^
+make: *** [src/Practice.o] Error 1
+09:49:08 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+Building file: ../src/Practice.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Practice.d" -MT"src/Practice.d" -o "src/Practice.o" "../src/Practice.cpp"
+Finished building: ../src/Practice.cpp
+ 
+Building target: Practice
+Invoking: GCC C++ Linker
+g++  -o "Practice"  ./src/Practice.o   
+Finished building target: Practice
+ 
+09:49:25 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+make: Nothing to be done for `all'.
+09:49:32 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+Building file: ../src/Practice.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Practice.d" -MT"src/Practice.d" -o "src/Practice.o" "../src/Practice.cpp"
+Finished building: ../src/Practice.cpp
+ 
+Building target: Practice
+Invoking: GCC C++ Linker
+g++  -o "Practice"  ./src/Practice.o   
+Finished building target: Practice
+ 
+08:42:50 **** Build of configuration Debug for project Proj2 ****
+make all 
+make: Nothing to be done for `all'.
+08:42:56 **** Incremental Build of configuration Debug for project Proj2 ****
+make all 
+make: Nothing to be done for `all'.
+08:43:04 **** Incremental Build of configuration Debug for project Proj2 ****
+make all 
+make: Nothing to be done for `all'.
+08:43:07 **** Incremental Build of configuration Debug for project Proj2 ****
+make all 
+make: Nothing to be done for `all'.
+08:45:44 **** Incremental Build of configuration Debug for project Proj2 ****
+make all 
+Building file: ../src/Proj2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj2.d" -MT"src/Proj2.d" -o "src/Proj2.o" "../src/Proj2.cpp"
+../src/Proj2.cpp: In constructor ‘Matrix::Matrix()’:
+../src/Proj2.cpp:21:14: warning: extended initializer lists only available with -std=c++11 or -std=gnu++11 [enabled by default]
+   arr[5][5]={};
+              ^
+Finished building: ../src/Proj2.cpp
+ 
+Building target: Proj2
+Invoking: GCC C++ Linker
+g++  -o "Proj2"  ./src/Proj2.o   
+Finished building target: Proj2
+ 
+08:45:47 **** Incremental Build of configuration Debug for project Proj2 ****
+make all 
+make: Nothing to be done for `all'.
+08:50:01 **** Build of configuration Debug for project Proj3 ****
+make all 
+Building file: ../src/Proj3.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj3.d" -MT"src/Proj3.d" -o "src/Proj3.o" "../src/Proj3.cpp"
+../src/Proj3.cpp: In constructor ‘Matrix::Matrix()’:
+../src/Proj3.cpp:20:16: warning: extended initializer lists only available with -std=c++11 or -std=gnu++11 [enabled by default]
+   arr[10][10]={};
+                ^
+Finished building: ../src/Proj3.cpp
+ 
+Building target: Proj3
+Invoking: GCC C++ Linker
+g++  -o "Proj3"  ./src/Proj3.o   
+Finished building target: Proj3
+ 
+08:50:27 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+make: Nothing to be done for `all'.
+08:57:39 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+Building file: ../src/Proj3.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj3.d" -MT"src/Proj3.d" -o "src/Proj3.o" "../src/Proj3.cpp"
+../src/Proj3.cpp: In constructor ‘Matrix::Matrix()’:
+../src/Proj3.cpp:20:16: warning: extended initializer lists only available with -std=c++11 or -std=gnu++11 [enabled by default]
+   arr[10][10]={};
+                ^
+Finished building: ../src/Proj3.cpp
+ 
+Building target: Proj3
+Invoking: GCC C++ Linker
+g++  -o "Proj3"  ./src/Proj3.o   
+Finished building target: Proj3
+ 
+08:59:06 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+make: Nothing to be done for `all'.
+08:59:08 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+make: Nothing to be done for `all'.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          08:35:10 **** Build of configuration Debug for project Proj7 ****
+make all 
+Building file: ../src/Proj7.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj7.d" -MT"src/Proj7.d" -o "src/Proj7.o" "../src/Proj7.cpp"
+Finished building: ../src/Proj7.cpp
+ 
+Building target: Proj7
+Invoking: GCC C++ Linker
+g++  -o "Proj7"  ./src/Proj7.o   
+Finished building target: Proj7
+ 
+08:35:17 **** Incremental Build of configuration Debug for project Proj7 ****
+make all 
+make: Nothing to be done for `all'.
+08:35:38 **** Incremental Build of configuration Debug for project Proj7 ****
+make all 
+make: Nothing to be done for `all'.
+08:36:00 **** Incremental Build of configuration Debug for project Proj7 ****
+make all 
+make: Nothing to be done for `all'.
+08:36:20 **** Build of configuration Debug for project Proj3 ****
+make all 
+Building file: ../src/Proj3.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj3.d" -MT"src/Proj3.d" -o "src/Proj3.o" "../src/Proj3.cpp"
+../src/Proj3.cpp: In constructor ‘Matrix::Matrix()’:
+../src/Proj3.cpp:20:16: warning: extended initializer lists only available with -std=c++11 or -std=gnu++11 [enabled by default]
+   arr[10][10]={};
+                ^
+Finished building: ../src/Proj3.cpp
+ 
+Building target: Proj3
+Invoking: GCC C++ Linker
+g++  -o "Proj3"  ./src/Proj3.o   
+Finished building target: Proj3
+ 
+08:36:27 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+make: Nothing to be done for `all'.
+09:01:48 **** Build of configuration Debug for project Proj4 ****
+make all 
+Building file: ../src/Proj4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj4.d" -MT"src/Proj4.d" -o "src/Proj4.o" "../src/Proj4.cpp"
+../src/Proj4.cpp:271:3: error: expected unqualified-id before ‘while’
+  }while(ch!=4);
+   ^
+../src/Proj4.cpp:272:2: error: expected unqualified-id before ‘return’
+  return 0;
+  ^
+../src/Proj4.cpp:273:1: error: expected declaration before ‘}’ token
+ }
+ ^
+make: *** [src/Proj4.o] Error 1
+09:26:07 **** Build of configuration Debug for project Proj5 ****
+make all 
+Building file: ../src/Proj5.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj5.d" -MT"src/Proj5.d" -o "src/Proj5.o" "../src/Proj5.cpp"
+Finished building: ../src/Proj5.cpp
+ 
+Building target: Proj5
+Invoking: GCC C++ Linker
+g++  -o "Proj5"  ./src/Proj5.o   
+Finished building target: Proj5
+ 
+09:26:38 **** Incremental Build of configuration Debug for project Proj5 ****
+make all 
+make: Nothing to be done for `all'.
+09:26:49 **** Incremental Build of configuration Debug for project Proj5 ****
+make all 
+make: Nothing to be done for `all'.
+09:26:52 **** Incremental Build of configuration Debug for project Proj5 ****
+make all 
+make: Nothing to be done for `all'.
+09:28:21 **** Incremental Build of configuration Debug for project Proj5 ****
+make all 
+make: Nothing to be done for `all'.
+09:28:39 **** Incremental Build of configuration Debug for project Proj5 ****
+make all 
+make: Nothing to be done for `all'.
+09:41:14 **** Incremental Build of configuration Debug for project Proj5 ****
+make all 
+Building file: ../src/Proj5.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj5.d" -MT"src/Proj5.d" -o "src/Proj5.o" "../src/Proj5.cpp"
+Finished building: ../src/Proj5.cpp
+ 
+Building target: Proj5
+Invoking: GCC C++ Linker
+g++  -o "Proj5"  ./src/Proj5.o   
+Finished building target: Proj5
+ 
+09:41:19 **** Incremental Build of configuration Debug for project Proj5 ****
+make all 
+make: Nothing to be done for `all'.
+09:42:46 **** Incremental Build of configuration Debug for project Proj5 ****
+make all 
+Building file: ../src/Proj5.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj5.d" -MT"src/Proj5.d" -o "src/Proj5.o" "../src/Proj5.cpp"
+Finished building: ../src/Proj5.cpp
+ 
+Building target: Proj5
+Invoking: GCC C++ Linker
+g++  -o "Proj5"  ./src/Proj5.o   
+Finished building target: Proj5
+ 
+09:43:35 **** Incremental Build of configuration Debug for project Proj5 ****
+make all 
+Building file: ../src/Proj5.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj5.d" -MT"src/Proj5.d" -o "src/Proj5.o" "../src/Proj5.cpp"
+Finished building: ../src/Proj5.cpp
+ 
+Building target: Proj5
+Invoking: GCC C++ Linker
+g++  -o "Proj5"  ./src/Proj5.o   
+Finished building target: Proj5
+ 
+09:44:15 **** Incremental Build of configuration Debug for project Proj5 ****
+make all 
+make: Nothing to be done for `all'.
+09:44:49 **** Incremental Build of configuration Debug for project Proj5 ****
+make all 
+make: Nothing to be done for `all'.
+09:45:18 **** Incremental Build of configuration Debug for project Proj5 ****
+make all 
+make: Nothing to be done for `all'.
+09:32:10 **** Build of configuration Debug for project Proj11 ****
+make all 
+Building file: ../src/Proj11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj11.d" -MT"src/Proj11.d" -o "src/Proj11.o" "../src/Proj11.cpp"
+../src/Proj11.cpp: In member function ‘void search::sentinelSearch(int)’:
+../src/Proj11.cpp:40:3: error: expected ‘;’ before ‘while’
+   while(data[i]!=a && i<n){
+   ^
+../src/Proj11.cpp: In member function ‘int search::fibSearch(int)’:
+../src/Proj11.cpp:89:4: error: expected primary-expression before ‘else’
+    else if (x > data[pos]){
+    ^
+../src/Proj11.cpp:89:4: error: expected ‘;’ before ‘else’
+make: *** [src/Proj11.o] Error 1
+09:33:10 **** Incremental Build of configuration Debug for project Proj11 ****
+make all 
+Building file: ../src/Proj11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj11.d" -MT"src/Proj11.d" -o "src/Proj11.o" "../src/Proj11.cpp"
+Finished building: ../src/Proj11.cpp
+ 
+Building target: Proj11
+Invoking: GCC C++ Linker
+g++  -o "Proj11"  ./src/Proj11.o   
+Finished building target: Proj11
+ 
+09:33:22 **** Incremental Build of configuration Debug for project Proj11 ****
+make all 
+make: Nothing to be done for `all'.
+09:35:52 **** Incremental Build of configuration Debug for project Proj11 ****
+make all 
+Building file: ../src/Proj11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj11.d" -MT"src/Proj11.d" -o "src/Proj11.o" "../src/Proj11.cpp"
+Finished building: ../src/Proj11.cpp
+ 
+Building target: Proj11
+Invoking: GCC C++ Linker
+g++  -o "Proj11"  ./src/Proj11.o   
+Finished building target: Proj11
+ 
+09:35:54 **** Incremental Build of configuration Debug for project Proj11 ****
+make all 
+make: Nothing to be done for `all'.
+09:38:01 **** Incremental Build of configuration Debug for project Proj11 ****
+make all 
+Building file: ../src/Proj11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj11.d" -MT"src/Proj11.d" -o "src/Proj11.o" "../src/Proj11.cpp"
+Finished building: ../src/Proj11.cpp
+ 
+Building target: Proj11
+Invoking: GCC C++ Linker
+g++  -o "Proj11"  ./src/Proj11.o   
+Finished building target: Proj11
+ 
+09:38:05 **** Incremental Build of configuration Debug for project Proj11 ****
+make all 
+make: Nothing to be done for `all'.
+09:38:10 **** Incremental Build of configuration Debug for project Proj11 ****
+make all 
+make: Nothing to be done for `all'.
+09:03:51 **** Build of configuration Debug for project Proj3 ****
+make all 
+Building file: ../src/Proj3.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj3.d" -MT"src/Proj3.d" -o "src/Proj3.o" "../src/Proj3.cpp"
+../src/Proj3.cpp: In constructor ‘Matrix::Matrix()’:
+../src/Proj3.cpp:20:13: warning: statement has no effect [-Wunused-value]
+   arr[10][10];
+             ^
+../src/Proj3.cpp: In member function ‘void Matrix::checkSparse()’:
+../src/Proj3.cpp:58:3: error: ‘else’ without a previous ‘if’
+   else
+   ^
+make: *** [src/Proj3.o] Error 1
+09:04:33 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+Building file: ../src/Proj3.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj3.d" -MT"src/Proj3.d" -o "src/Proj3.o" "../src/Proj3.cpp"
+../src/Proj3.cpp: In constructor ‘Matrix::Matrix()’:
+../src/Proj3.cpp:20:13: warning: statement has no effect [-Wunused-value]
+   arr[10][10];
+             ^
+Finished building: ../src/Proj3.cpp
+ 
+Building target: Proj3
+Invoking: GCC C++ Linker
+g++  -o "Proj3"  ./src/Proj3.o   
+Finished building target: Proj3
+ 
+09:04:38 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+make: Nothing to be done for `all'.
+09:13:06 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+Building file: ../src/Proj3.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj3.d" -MT"src/Proj3.d" -o "src/Proj3.o" "../src/Proj3.cpp"
+../src/Proj3.cpp: In constructor ‘Matrix::Matrix()’:
+../src/Proj3.cpp:20:13: warning: statement has no effect [-Wunused-value]
+   arr[10][10];
+             ^
+Finished building: ../src/Proj3.cpp
+ 
+Building target: Proj3
+Invoking: GCC C++ Linker
+g++  -o "Proj3"  ./src/Proj3.o   
+Finished building target: Proj3
+ 
+09:13:09 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+make: Nothing to be done for `all'.
+09:15:20 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+Building file: ../src/Proj3.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj3.d" -MT"src/Proj3.d" -o "src/Proj3.o" "../src/Proj3.cpp"
+../src/Proj3.cpp: In constructor ‘Matrix::Matrix()’:
+../src/Proj3.cpp:20:13: warning: statement has no effect [-Wunused-value]
+   arr[10][10];
+             ^
+../src/Proj3.cpp: In member function ‘void Matrix::fastTranspose()’:
+../src/Proj3.cpp:68:39: error: expected primary-expression before ‘<<’ token
+     if(arr[i][j] != 0) cout<<j<<"\t"<<<<"\t"<<arr[i][j]<<endl;
+                                       ^
+make: *** [src/Proj3.o] Error 1
+09:15:53 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+Building file: ../src/Proj3.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj3.d" -MT"src/Proj3.d" -o "src/Proj3.o" "../src/Proj3.cpp"
+../src/Proj3.cpp: In member function ‘void Matrix::fastTranspose()’:
+../src/Proj3.cpp:67:39: error: expected primary-expression before ‘<<’ token
+     if(arr[i][j] != 0) cout<<j<<"\t"<<<<"\t"<<arr[i][j]<<endl;
+                                       ^
+make: *** [src/Proj3.o] Error 1
+09:15:57 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+Building file: ../src/Proj3.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj3.d" -MT"src/Proj3.d" -o "src/Proj3.o" "../src/Proj3.cpp"
+../src/Proj3.cpp: In member function ‘void Matrix::fastTranspose()’:
+../src/Proj3.cpp:67:39: error: expected primary-expression before ‘<<’ token
+     if(arr[i][j] != 0) cout<<j<<"\t"<<<<"\t"<<arr[i][j]<<endl;
+                                       ^
+make: *** [src/Proj3.o] Error 1
+09:16:23 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+Building file: ../src/Proj3.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj3.d" -MT"src/Proj3.d" -o "src/Proj3.o" "../src/Proj3.cpp"
+Finished building: ../src/Proj3.cpp
+ 
+Building target: Proj3
+Invoking: GCC C++ Linker
+g++  -o "Proj3"  ./src/Proj3.o   
+Finished building target: Proj3
+ 
+09:16:26 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+make: Nothing to be done for `all'.
+09:21:07 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+Building file: ../src/Proj3.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj3.d" -MT"src/Proj3.d" -o "src/Proj3.o" "../src/Proj3.cpp"
+Finished building: ../src/Proj3.cpp
+ 
+Building target: Proj3
+Invoking: GCC C++ Linker
+g++  -o "Proj3"  ./src/Proj3.o   
+Finished building target: Proj3
+ 
+09:21:10 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+make: Nothing to be done for `all'.
+09:21:21 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+Building file: ../src/Proj3.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj3.d" -MT"src/Proj3.d" -o "src/Proj3.o" "../src/Proj3.cpp"
+Finished building: ../src/Proj3.cpp
+ 
+Building target: Proj3
+Invoking: GCC C++ Linker
+g++  -o "Proj3"  ./src/Proj3.o   
+Finished building target: Proj3
+ 
+09:21:23 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+make: Nothing to be done for `all'.
+09:21:25 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+make: Nothing to be done for `all'.
+09:23:28 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+Building file: ../src/Proj3.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj3.d" -MT"src/Proj3.d" -o "src/Proj3.o" "../src/Proj3.cpp"
+Finished building: ../src/Proj3.cpp
+ 
+Building target: Proj3
+Invoking: GCC C++ Linker
+g++  -o "Proj3"  ./src/Proj3.o   
+Finished building target: Proj3
+ 
+09:23:30 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+make: Nothing to be done for `all'.
+09:24:03 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+make: Nothing to be done for `all'.
+09:24:38 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+make: Nothing to be done for `all'.
+09:28:08 **** Build of configuration Debug for project MiniPoject ****
+make all 
+Building file: ../src/MiniPoject.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MiniPoject.d" -MT"src/MiniPoject.d" -o "src/MiniPoject.o" "../src/MiniPoject.cpp"
+../src/MiniPoject.cpp:13:21: fatal error: iostream.h: No such file or directory
+ #include<iostream.h>
+                     ^
+compilation terminated.
+make: *** [src/MiniPoject.o] Error 1
+09:28:17 **** Incremental Build of configuration Debug for project MiniPoject ****
+make all 
+Building file: ../src/MiniPoject.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MiniPoject.d" -MT"src/MiniPoject.d" -o "src/MiniPoject.o" "../src/MiniPoject.cpp"
+../src/MiniPoject.cpp:13:21: fatal error: iostream.h: No such file or directory
+ #include<iostream.h>
+                     ^
+compilation terminated.
+make: *** [src/MiniPoject.o] Error 1
+09:28:29 **** Incremental Build of configuration Debug for project MiniPoject ****
+make all 
+Building file: ../src/MiniPoject.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MiniPoject.d" -MT"src/MiniPoject.d" -o "src/MiniPoject.o" "../src/MiniPoject.cpp"
+../src/MiniPoject.cpp:15:18: fatal error: conio.h: No such file or directory
+ #include<conio.h>
+                  ^
+compilation terminated.
+make: *** [src/MiniPoject.o] Error 1
+09:31:44 **** Incremental Build of configuration Debug for project MiniPoject ****
+make all 
+Building file: ../src/MiniPoject.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MiniPoject.d" -MT"src/MiniPoject.d" -o "src/MiniPoject.o" "../src/MiniPoject.cpp"
+../src/MiniPoject.cpp:212:22: fatal error: customer.h: No such file or directory
+ #include "customer.h"
+                      ^
+compilation terminated.
+make: *** [src/MiniPoject.o] Error 1
+09:39:52 **** Incremental Build of configuration Debug for project MiniPoject ****
+make all 
+Building file: ../src/MiniPoject.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MiniPoject.d" -MT"src/MiniPoject.d" -o "src/MiniPoject.o" "../src/MiniPoject.cpp"
+../src/MiniPoject.cpp:95:2: error: #endif without #if
+ #endif
+  ^
+../src/MiniPoject.cpp:250:22: fatal error: customer.h: No such file or directory
+ #include "customer.h"
+                      ^
+compilation terminated.
+make: *** [src/MiniPoject.o] Error 1
+09:40:51 **** Incremental Build of configuration Debug for project MiniPoject ****
+make all 
+Building file: ../src/MiniPoject.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MiniPoject.d" -MT"src/MiniPoject.d" -o "src/MiniPoject.o" "../src/MiniPoject.cpp"
+../src/MiniPoject.cpp:96:2: error: #endif without #if
+ #endif
+  ^
+../src/MiniPoject.cpp:251:22: fatal error: customer.h: No such file or directory
+ #include "customer.h"
+                      ^
+compilation terminated.
+make: *** [src/MiniPoject.o] Error 1
+09:42:26 **** Incremental Build of configuration Debug for project MiniPoject ****
+make all 
+Building file: ../src/MiniPoject.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MiniPoject.d" -MT"src/MiniPoject.d" -o "src/MiniPoject.o" "../src/MiniPoject.cpp"
+../src/MiniPoject.cpp:243:22: fatal error: customer.h: No such file or directory
+ #include "customer.h"
+                      ^
+compilation terminated.
+make: *** [src/MiniPoject.o] Error 1
+09:42:50 **** Incremental Build of configuration Debug for project MiniPoject ****
+make all 
+Building file: ../src/MiniPoject.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MiniPoject.d" -MT"src/MiniPoject.d" -o "src/MiniPoject.o" "../src/MiniPoject.cpp"
+../src/MiniPoject.cpp:243:22: fatal error: customer.h: No such file or directory
+ #include "customer.h"
+                      ^
+compilation terminated.
+make: *** [src/MiniPoject.o] Error 1
+09:43:32 **** Incremental Build of configuration Debug for project MiniPoject ****
+make all 
+Building file: ../src/MiniPoject.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MiniPoject.d" -MT"src/MiniPoject.d" -o "src/MiniPoject.o" "../src/MiniPoject.cpp"
+../src/MiniPoject.cpp:328:21: fatal error: customer.h: No such file or directory
+ #include"customer.h"
+                     ^
+compilation terminated.
+make: *** [src/MiniPoject.o] Error 1
+09:44:01 **** Incremental Build of configuration Debug for project MiniPoject ****
+make all 
+Building file: ../src/MiniPoject.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MiniPoject.d" -MT"src/MiniPoject.d" -o "src/MiniPoject.o" "../src/MiniPoject.cpp"
+../src/MiniPoject.cpp: In member function ‘void customer::delete_customer()’:
+../src/MiniPoject.cpp:192:9: warning: variable ‘i’ set but not used [-Wunused-but-set-variable]
+     int i=1;
+         ^
+../src/MiniPoject.cpp: At global scope:
+../src/MiniPoject.cpp:232:1: error: expected unqualified-id before ‘{’ token
+ {
+ ^
+../src/MiniPoject.cpp:327:11: error: ‘::main’ must return ‘int’
+ void main()
+           ^
+make: *** [src/MiniPoject.o] Error 1
+09:44:29 **** Incremental Build of configuration Debug for project MiniPoject ****
+make all 
+Building file: ../src/MiniPoject.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MiniPoject.d" -MT"src/MiniPoject.d" -o "src/MiniPoject.o" "../src/MiniPoject.cpp"
+../src/MiniPoject.cpp: In member function ‘void customer::delete_customer()’:
+../src/MiniPoject.cpp:192:9: warning: variable ‘i’ set but not used [-Wunused-but-set-variable]
+     int i=1;
+         ^
+../src/MiniPoject.cpp: At global scope:
+../src/MiniPoject.cpp:232:1: error: expected unqualified-id before ‘{’ token
+ {
+ ^
+make: *** [src/MiniPoject.o] Error 1
+09:44:55 **** Incremental Build of configuration Debug for project MiniPoject ****
+make all 
+Building file: ../src/MiniPoject.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MiniPoject.d" -MT"src/MiniPoject.d" -o "src/MiniPoject.o" "../src/MiniPoject.cpp"
+../src/MiniPoject.cpp: In member function ‘void customer::delete_customer()’:
+../src/MiniPoject.cpp:192:9: warning: variable ‘i’ set but not used [-Wunused-but-set-variable]
+     int i=1;
+         ^
+Finished building: ../src/MiniPoject.cpp
+ 
+Building target: MiniPoject
+Invoking: GCC C++ Linker
+g++  -o "MiniPoject"  ./src/MiniPoject.o   
+./src/MiniPoject.o: In function `customer::login_screen()':
+/home/SE/21153/MiniPoject/Debug/../src/MiniPoject.cpp:125: undefined reference to `customer::main_screen()'
+./src/MiniPoject.o: In function `customer::add_customer()':
+/home/SE/21153/MiniPoject/Debug/../src/MiniPoject.cpp:145: undefined reference to `customer::getdata()'
+./src/MiniPoject.o: In function `customer::search_customer()':
+/home/SE/21153/MiniPoject/Debug/../src/MiniPoject.cpp:167: undefined reference to `customer::compare(char*)'
+./src/MiniPoject.o: In function `customer::delete_customer()':
+/home/SE/21153/MiniPoject/Debug/../src/MiniPoject.cpp:202: undefined reference to `customer::compare(char*)'
+collect2: error: ld returned 1 exit status
+make: *** [MiniPoject] Error 1
+09:46:42 **** Incremental Build of configuration Debug for project MiniPoject ****
+make all 
+Building file: ../src/MiniPoject.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MiniPoject.d" -MT"src/MiniPoject.d" -o "src/MiniPoject.o" "../src/MiniPoject.cpp"
+../src/MiniPoject.cpp: In member function ‘void customer::delete_customer()’:
+../src/MiniPoject.cpp:192:9: warning: variable ‘i’ set but not used [-Wunused-but-set-variable]
+     int i=1;
+         ^
+../src/MiniPoject.cpp: At global scope:
+../src/MiniPoject.cpp:232:1: error: expected unqualified-id before ‘{’ token
+ {
+ ^
+make: *** [src/MiniPoject.o] Error 1
+13:56:18 **** Build of configuration Debug for project Proj12 ****
+make all 
+Building file: ../src/Proj12.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj12.d" -MT"src/Proj12.d" -o "src/Proj12.o" "../src/Proj12.cpp"
+Finished building: ../src/Proj12.cpp
+ 
+Building target: Proj12
+Invoking: GCC C++ Linker
+g++  -o "Proj12"  ./src/Proj12.o   
+Finished building target: Proj12
+ 
+13:56:27 **** Incremental Build of configuration Debug for project Proj12 ****
+make all 
+make: Nothing to be done for `all'.
+13:58:13 **** Incremental Build of configuration Debug for project Proj12 ****
+make all 
+Building file: ../src/Proj12.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj12.d" -MT"src/Proj12.d" -o "src/Proj12.o" "../src/Proj12.cpp"
+../src/Proj12.cpp:16:9: error: expected unqualified-id before ‘{’ token
+  sorting{
+         ^
+make: *** [src/Proj12.o] Error 1
+13:59:55 **** Incremental Build of configuration Debug for project MiniPoject ****
+make all 
+Building file: ../src/MiniPoject.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MiniPoject.d" -MT"src/MiniPoject.d" -o "src/MiniPoject.o" "../src/MiniPoject.cpp"
+../src/MiniPoject.cpp: In member function ‘void customer::delete_customer()’:
+../src/MiniPoject.cpp:192:9: warning: variable ‘i’ set but not used [-Wunused-but-set-variable]
+     int i=1;
+         ^
+../src/MiniPoject.cpp: At global scope:
+../src/MiniPoject.cpp:232:1: error: expected unqualified-id before ‘{’ token
+ {
+ ^
+make: *** [src/MiniPoject.o] Error 1
+13:59:56 **** Build of configuration Debug for project Practice ****
+make all 
+make: Nothing to be done for `all'.
+13:59:56 **** Build of configuration Debug for project Proj10 ****
+make all 
+Building file: ../src/Proj10.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj10.d" -MT"src/Proj10.d" -o "src/Proj10.o" "../src/Proj10.cpp"
+Finished building: ../src/Proj10.cpp
+ 
+Building target: Proj10
+Invoking: GCC C++ Linker
+g++  -o "Proj10"  ./src/Proj10.o   
+Finished building target: Proj10
+ 
+13:59:57 **** Build of configuration Debug for project Proj11 ****
+make all 
+Building file: ../src/Proj11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj11.d" -MT"src/Proj11.d" -o "src/Proj11.o" "../src/Proj11.cpp"
+Finished building: ../src/Proj11.cpp
+ 
+Building target: Proj11
+Invoking: GCC C++ Linker
+g++  -o "Proj11"  ./src/Proj11.o   
+Finished building target: Proj11
+ 
+13:59:57 **** Incremental Build of configuration Debug for project Proj12 ****
+make all 
+Building file: ../src/Proj12.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj12.d" -MT"src/Proj12.d" -o "src/Proj12.o" "../src/Proj12.cpp"
+Finished building: ../src/Proj12.cpp
+ 
+Building target: Proj12
+Invoking: GCC C++ Linker
+g++  -o "Proj12"  ./src/Proj12.o   
+Finished building target: Proj12
+ 
+13:59:58 **** Build of configuration Debug for project Proj2 ****
+make all 
+Building file: ../src/Proj2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj2.d" -MT"src/Proj2.d" -o "src/Proj2.o" "../src/Proj2.cpp"
+../src/Proj2.cpp: In constructor ‘Matrix::Matrix()’:
+../src/Proj2.cpp:21:19: error: expected primary-expression before ‘;’ token
+         arr[5][5]=;
+                   ^
+make: *** [src/Proj2.o] Error 1
+13:59:59 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+make: Nothing to be done for `all'.
+13:59:59 **** Build of configuration Debug for project Proj4 ****
+make all 
+Building file: ../src/Proj4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj4.d" -MT"src/Proj4.d" -o "src/Proj4.o" "../src/Proj4.cpp"
+../src/Proj4.cpp:270:3: error: expected unqualified-id before ‘while’
+  }while(ch!=4);
+   ^
+../src/Proj4.cpp:271:2: error: expected unqualified-id before ‘return’
+  return 0;
+  ^
+../src/Proj4.cpp:272:1: error: expected declaration before ‘}’ token
+ }
+ ^
+make: *** [src/Proj4.o] Error 1
+14:00:00 **** Build of configuration Debug for project Proj5 ****
+make all 
+make: Nothing to be done for `all'.
+14:00:00 **** Build of configuration Debug for project Proj6 ****
+make all 
+Building file: ../src/Proj6.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj6.d" -MT"src/Proj6.d" -o "src/Proj6.o" "../src/Proj6.cpp"
+Finished building: ../src/Proj6.cpp
+ 
+Building target: Proj6
+Invoking: GCC C++ Linker
+g++  -o "Proj6"  ./src/Proj6.o   
+Finished building target: Proj6
+ 
+14:00:00 **** Build of configuration Debug for project Proj7 ****
+make all 
+make: Nothing to be done for `all'.
+14:00:00 **** Build of configuration Debug for project Proj9 ****
+make all 
+Building file: ../src/Proj9.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj9.d" -MT"src/Proj9.d" -o "src/Proj9.o" "../src/Proj9.cpp"
+Finished building: ../src/Proj9.cpp
+ 
+Building target: Proj9
+Invoking: GCC C++ Linker
+g++  -o "Proj9"  ./src/Proj9.o   
+Finished building target: Proj9
+ 
+14:00:17 **** Incremental Build of configuration Debug for project MiniPoject ****
+make all 
+Building file: ../src/MiniPoject.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MiniPoject.d" -MT"src/MiniPoject.d" -o "src/MiniPoject.o" "../src/MiniPoject.cpp"
+../src/MiniPoject.cpp: In member function ‘void customer::delete_customer()’:
+../src/MiniPoject.cpp:192:9: warning: variable ‘i’ set but not used [-Wunused-but-set-variable]
+     int i=1;
+         ^
+../src/MiniPoject.cpp: At global scope:
+../src/MiniPoject.cpp:232:1: error: expected unqualified-id before ‘{’ token
+ {
+ ^
+make: *** [src/MiniPoject.o] Error 1
+14:00:18 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+make: Nothing to be done for `all'.
+14:00:18 **** Incremental Build of configuration Debug for project Proj10 ****
+make all 
+make: Nothing to be done for `all'.
+14:00:18 **** Incremental Build of configuration Debug for project Proj11 ****
+make all 
+make: Nothing to be done for `all'.
+14:00:18 **** Incremental Build of configuration Debug for project Proj12 ****
+make all 
+Building file: ../src/Proj12.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj12.d" -MT"src/Proj12.d" -o "src/Proj12.o" "../src/Proj12.cpp"
+Finished building: ../src/Proj12.cpp
+ 
+Building target: Proj12
+Invoking: GCC C++ Linker
+g++  -o "Proj12"  ./src/Proj12.o   
+Finished building target: Proj12
+ 
+14:00:19 **** Incremental Build of configuration Debug for project Proj2 ****
+make all 
+Building file: ../src/Proj2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj2.d" -MT"src/Proj2.d" -o "src/Proj2.o" "../src/Proj2.cpp"
+../src/Proj2.cpp: In constructor ‘Matrix::Matrix()’:
+../src/Proj2.cpp:21:19: error: expected primary-expression before ‘;’ token
+         arr[5][5]=;
+                   ^
+make: *** [src/Proj2.o] Error 1
+14:00:20 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+make: Nothing to be done for `all'.
+14:00:20 **** Incremental Build of configuration Debug for project Proj4 ****
+make all 
+Building file: ../src/Proj4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj4.d" -MT"src/Proj4.d" -o "src/Proj4.o" "../src/Proj4.cpp"
+../src/Proj4.cpp:270:3: error: expected unqualified-id before ‘while’
+  }while(ch!=4);
+   ^
+../src/Proj4.cpp:271:2: error: expected unqualified-id before ‘return’
+  return 0;
+  ^
+../src/Proj4.cpp:272:1: error: expected declaration before ‘}’ token
+ }
+ ^
+make: *** [src/Proj4.o] Error 1
+14:00:20 **** Incremental Build of configuration Debug for project Proj5 ****
+make all 
+make: Nothing to be done for `all'.
+14:00:20 **** Incremental Build of configuration Debug for project Proj6 ****
+make all 
+make: Nothing to be done for `all'.
+14:00:20 **** Incremental Build of configuration Debug for project Proj7 ****
+make all 
+make: Nothing to be done for `all'.
+14:00:20 **** Incremental Build of configuration Debug for project Proj9 ****
+make all 
+make: Nothing to be done for `all'.
+14:00:23 **** Incremental Build of configuration Debug for project Proj12 ****
+make all 
+make: Nothing to be done for `all'.
+14:04:40 **** Incremental Build of configuration Debug for project MiniPoject ****
+make all 
+Building file: ../src/MiniPoject.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MiniPoject.d" -MT"src/MiniPoject.d" -o "src/MiniPoject.o" "../src/MiniPoject.cpp"
+../src/MiniPoject.cpp: In member function ‘void customer::delete_customer()’:
+../src/MiniPoject.cpp:192:9: warning: variable ‘i’ set but not used [-Wunused-but-set-variable]
+     int i=1;
+         ^
+../src/MiniPoject.cpp: At global scope:
+../src/MiniPoject.cpp:232:1: error: expected unqualified-id before ‘{’ token
+ {
+ ^
+make: *** [src/MiniPoject.o] Error 1
+14:04:41 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+make: Nothing to be done for `all'.
+14:04:41 **** Incremental Build of configuration Debug for project Proj10 ****
+make all 
+make: Nothing to be done for `all'.
+14:04:41 **** Incremental Build of configuration Debug for project Proj11 ****
+make all 
+make: Nothing to be done for `all'.
+14:04:41 **** Incremental Build of configuration Debug for project Proj12 ****
+make all 
+Building file: ../src/Proj12.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj12.d" -MT"src/Proj12.d" -o "src/Proj12.o" "../src/Proj12.cpp"
+Finished building: ../src/Proj12.cpp
+ 
+Building target: Proj12
+Invoking: GCC C++ Linker
+g++  -o "Proj12"  ./src/Proj12.o   
+Finished building target: Proj12
+ 
+14:04:42 **** Incremental Build of configuration Debug for project Proj2 ****
+make all 
+Building file: ../src/Proj2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj2.d" -MT"src/Proj2.d" -o "src/Proj2.o" "../src/Proj2.cpp"
+../src/Proj2.cpp: In constructor ‘Matrix::Matrix()’:
+../src/Proj2.cpp:21:19: error: expected primary-expression before ‘;’ token
+         arr[5][5]=;
+                   ^
+make: *** [src/Proj2.o] Error 1
+14:04:42 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+make: Nothing to be done for `all'.
+14:04:42 **** Incremental Build of configuration Debug for project Proj4 ****
+make all 
+Building file: ../src/Proj4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj4.d" -MT"src/Proj4.d" -o "src/Proj4.o" "../src/Proj4.cpp"
+../src/Proj4.cpp:270:3: error: expected unqualified-id before ‘while’
+  }while(ch!=4);
+   ^
+../src/Proj4.cpp:271:2: error: expected unqualified-id before ‘return’
+  return 0;
+  ^
+../src/Proj4.cpp:272:1: error: expected declaration before ‘}’ token
+ }
+ ^
+make: *** [src/Proj4.o] Error 1
+14:04:43 **** Incremental Build of configuration Debug for project Proj5 ****
+make all 
+make: Nothing to be done for `all'.
+14:04:43 **** Incremental Build of configuration Debug for project Proj6 ****
+make all 
+make: Nothing to be done for `all'.
+14:04:43 **** Incremental Build of configuration Debug for project Proj7 ****
+make all 
+make: Nothing to be done for `all'.
+14:04:43 **** Incremental Build of configuration Debug for project Proj9 ****
+make all 
+make: Nothing to be done for `all'.
+14:04:44 **** Incremental Build of configuration Debug for project Proj12 ****
+make all 
+make: Nothing to be done for `all'.
+14:06:57 **** Incremental Build of configuration Debug for project MiniPoject ****
+make all 
+Building file: ../src/MiniPoject.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MiniPoject.d" -MT"src/MiniPoject.d" -o "src/MiniPoject.o" "../src/MiniPoject.cpp"
+../src/MiniPoject.cpp: In member function ‘void customer::delete_customer()’:
+../src/MiniPoject.cpp:192:9: warning: variable ‘i’ set but not used [-Wunused-but-set-variable]
+     int i=1;
+         ^
+../src/MiniPoject.cpp: At global scope:
+../src/MiniPoject.cpp:232:1: error: expected unqualified-id before ‘{’ token
+ {
+ ^
+make: *** [src/MiniPoject.o] Error 1
+14:06:58 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+make: Nothing to be done for `all'.
+14:06:58 **** Incremental Build of configuration Debug for project Proj10 ****
+make all 
+make: Nothing to be done for `all'.
+14:06:58 **** Incremental Build of configuration Debug for project Proj11 ****
+make all 
+make: Nothing to be done for `all'.
+14:06:58 **** Incremental Build of configuration Debug for project Proj12 ****
+make all 
+Building file: ../src/Proj12.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj12.d" -MT"src/Proj12.d" -o "src/Proj12.o" "../src/Proj12.cpp"
+Finished building: ../src/Proj12.cpp
+ 
+Building target: Proj12
+Invoking: GCC C++ Linker
+g++  -o "Proj12"  ./src/Proj12.o   
+Finished building target: Proj12
+ 
+14:06:59 **** Incremental Build of configuration Debug for project Proj2 ****
+make all 
+Building file: ../src/Proj2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj2.d" -MT"src/Proj2.d" -o "src/Proj2.o" "../src/Proj2.cpp"
+../src/Proj2.cpp: In constructor ‘Matrix::Matrix()’:
+../src/Proj2.cpp:21:19: error: expected primary-expression before ‘;’ token
+         arr[5][5]=;
+                   ^
+make: *** [src/Proj2.o] Error 1
+14:06:59 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+make: Nothing to be done for `all'.
+14:06:59 **** Incremental Build of configuration Debug for project Proj4 ****
+make all 
+Building file: ../src/Proj4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj4.d" -MT"src/Proj4.d" -o "src/Proj4.o" "../src/Proj4.cpp"
+../src/Proj4.cpp:270:3: error: expected unqualified-id before ‘while’
+  }while(ch!=4);
+   ^
+../src/Proj4.cpp:271:2: error: expected unqualified-id before ‘return’
+  return 0;
+  ^
+../src/Proj4.cpp:272:1: error: expected declaration before ‘}’ token
+ }
+ ^
+make: *** [src/Proj4.o] Error 1
+14:07:00 **** Incremental Build of configuration Debug for project Proj5 ****
+make all 
+make: Nothing to be done for `all'.
+14:07:00 **** Incremental Build of configuration Debug for project Proj6 ****
+make all 
+make: Nothing to be done for `all'.
+14:07:00 **** Incremental Build of configuration Debug for project Proj7 ****
+make all 
+make: Nothing to be done for `all'.
+14:07:00 **** Incremental Build of configuration Debug for project Proj9 ****
+make all 
+make: Nothing to be done for `all'.
+14:07:01 **** Incremental Build of configuration Debug for project Proj12 ****
+make all 
+make: Nothing to be done for `all'.
+14:07:24 **** Incremental Build of configuration Debug for project Proj12 ****
+make all 
+make: Nothing to be done for `all'.
+14:30:22 **** Incremental Build of configuration Debug for project MiniPoject ****
+make all 
+Building file: ../src/MiniPoject.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MiniPoject.d" -MT"src/MiniPoject.d" -o "src/MiniPoject.o" "../src/MiniPoject.cpp"
+../src/MiniPoject.cpp: In member function ‘void customer::delete_customer()’:
+../src/MiniPoject.cpp:192:9: warning: variable ‘i’ set but not used [-Wunused-but-set-variable]
+     int i=1;
+         ^
+../src/MiniPoject.cpp: At global scope:
+../src/MiniPoject.cpp:232:1: error: expected unqualified-id before ‘{’ token
+ {
+ ^
+make: *** [src/MiniPoject.o] Error 1
+14:30:24 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+make: Nothing to be done for `all'.
+14:30:24 **** Incremental Build of configuration Debug for project Proj10 ****
+make all 
+make: Nothing to be done for `all'.
+14:30:24 **** Incremental Build of configuration Debug for project Proj11 ****
+make all 
+make: Nothing to be done for `all'.
+14:30:24 **** Incremental Build of configuration Debug for project Proj12 ****
+make all 
+make: Nothing to be done for `all'.
+14:30:24 **** Build of configuration Debug for project Proj13 ****
+make all 
+Building file: ../src/Proj13.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj13.d" -MT"src/Proj13.d" -o "src/Proj13.o" "../src/Proj13.cpp"
+../src/Proj13.cpp:19:15: error: expected ‘;’ at end of member declaration
+  void display()
+               ^
+make: *** [src/Proj13.o] Error 1
+14:30:25 **** Incremental Build of configuration Debug for project Proj2 ****
+make all 
+Building file: ../src/Proj2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj2.d" -MT"src/Proj2.d" -o "src/Proj2.o" "../src/Proj2.cpp"
+../src/Proj2.cpp: In constructor ‘Matrix::Matrix()’:
+../src/Proj2.cpp:21:19: error: expected primary-expression before ‘;’ token
+         arr[5][5]=;
+                   ^
+make: *** [src/Proj2.o] Error 1
+14:30:25 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+make: Nothing to be done for `all'.
+14:30:26 **** Incremental Build of configuration Debug for project Proj4 ****
+make all 
+Building file: ../src/Proj4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj4.d" -MT"src/Proj4.d" -o "src/Proj4.o" "../src/Proj4.cpp"
+../src/Proj4.cpp:270:3: error: expected unqualified-id before ‘while’
+  }while(ch!=4);
+   ^
+../src/Proj4.cpp:271:2: error: expected unqualified-id before ‘return’
+  return 0;
+  ^
+../src/Proj4.cpp:272:1: error: expected declaration before ‘}’ token
+ }
+ ^
+make: *** [src/Proj4.o] Error 1
+14:30:26 **** Incremental Build of configuration Debug for project Proj5 ****
+make all 
+make: Nothing to be done for `all'.
+14:30:26 **** Incremental Build of configuration Debug for project Proj6 ****
+make all 
+make: Nothing to be done for `all'.
+14:30:26 **** Incremental Build of configuration Debug for project Proj7 ****
+make all 
+make: Nothing to be done for `all'.
+14:30:26 **** Incremental Build of configuration Debug for project Proj9 ****
+make all 
+make: Nothing to be done for `all'.
+14:30:33 **** Incremental Build of configuration Debug for project MiniPoject ****
+make all 
+Building file: ../src/MiniPoject.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MiniPoject.d" -MT"src/MiniPoject.d" -o "src/MiniPoject.o" "../src/MiniPoject.cpp"
+../src/MiniPoject.cpp: In member function ‘void customer::delete_customer()’:
+../src/MiniPoject.cpp:192:9: warning: variable ‘i’ set but not used [-Wunused-but-set-variable]
+     int i=1;
+         ^
+../src/MiniPoject.cpp: At global scope:
+../src/MiniPoject.cpp:232:1: error: expected unqualified-id before ‘{’ token
+ {
+ ^
+make: *** [src/MiniPoject.o] Error 1
+14:30:34 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+make: Nothing to be done for `all'.
+14:30:34 **** Incremental Build of configuration Debug for project Proj10 ****
+make all 
+make: Nothing to be done for `all'.
+14:30:34 **** Incremental Build of configuration Debug for project Proj11 ****
+make all 
+make: Nothing to be done for `all'.
+14:30:34 **** Incremental Build of configuration Debug for project Proj12 ****
+make all 
+make: Nothing to be done for `all'.
+14:30:34 **** Incremental Build of configuration Debug for project Proj13 ****
+make all 
+Building file: ../src/Proj13.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj13.d" -MT"src/Proj13.d" -o "src/Proj13.o" "../src/Proj13.cpp"
+Finished building: ../src/Proj13.cpp
+ 
+Building target: Proj13
+Invoking: GCC C++ Linker
+g++  -o "Proj13"  ./src/Proj13.o   
+Finished building target: Proj13
+ 
+14:30:35 **** Incremental Build of configuration Debug for project Proj2 ****
+make all 
+Building file: ../src/Proj2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj2.d" -MT"src/Proj2.d" -o "src/Proj2.o" "../src/Proj2.cpp"
+../src/Proj2.cpp: In constructor ‘Matrix::Matrix()’:
+../src/Proj2.cpp:21:19: error: expected primary-expression before ‘;’ token
+         arr[5][5]=;
+                   ^
+make: *** [src/Proj2.o] Error 1
+14:30:35 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+make: Nothing to be done for `all'.
+14:30:35 **** Incremental Build of configuration Debug for project Proj4 ****
+make all 
+Building file: ../src/Proj4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj4.d" -MT"src/Proj4.d" -o "src/Proj4.o" "../src/Proj4.cpp"
+../src/Proj4.cpp:270:3: error: expected unqualified-id before ‘while’
+  }while(ch!=4);
+   ^
+../src/Proj4.cpp:271:2: error: expected unqualified-id before ‘return’
+  return 0;
+  ^
+../src/Proj4.cpp:272:1: error: expected declaration before ‘}’ token
+ }
+ ^
+make: *** [src/Proj4.o] Error 1
+14:30:36 **** Incremental Build of configuration Debug for project Proj5 ****
+make all 
+make: Nothing to be done for `all'.
+14:30:36 **** Incremental Build of configuration Debug for project Proj6 ****
+make all 
+make: Nothing to be done for `all'.
+14:30:36 **** Incremental Build of configuration Debug for project Proj7 ****
+make all 
+make: Nothing to be done for `all'.
+14:30:36 **** Incremental Build of configuration Debug for project Proj9 ****
+make all 
+make: Nothing to be done for `all'.
+14:30:38 **** Incremental Build of configuration Debug for project Proj13 ****
+make all 
+make: Nothing to be done for `all'.
+14:31:38 **** Incremental Build of configuration Debug for project MiniPoject ****
+make all 
+Building file: ../src/MiniPoject.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MiniPoject.d" -MT"src/MiniPoject.d" -o "src/MiniPoject.o" "../src/MiniPoject.cpp"
+../src/MiniPoject.cpp: In member function ‘void customer::delete_customer()’:
+../src/MiniPoject.cpp:192:9: warning: variable ‘i’ set but not used [-Wunused-but-set-variable]
+     int i=1;
+         ^
+../src/MiniPoject.cpp: At global scope:
+../src/MiniPoject.cpp:232:1: error: expected unqualified-id before ‘{’ token
+ {
+ ^
+make: *** [src/MiniPoject.o] Error 1
+14:31:38 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+make: Nothing to be done for `all'.
+14:31:38 **** Incremental Build of configuration Debug for project Proj10 ****
+make all 
+make: Nothing to be done for `all'.
+14:31:39 **** Incremental Build of configuration Debug for project Proj11 ****
+make all 
+make: Nothing to be done for `all'.
+14:31:39 **** Incremental Build of configuration Debug for project Proj12 ****
+make all 
+make: Nothing to be done for `all'.
+14:31:39 **** Incremental Build of configuration Debug for project Proj13 ****
+make all 
+Building file: ../src/Proj13.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj13.d" -MT"src/Proj13.d" -o "src/Proj13.o" "../src/Proj13.cpp"
+Finished building: ../src/Proj13.cpp
+ 
+Building target: Proj13
+Invoking: GCC C++ Linker
+g++  -o "Proj13"  ./src/Proj13.o   
+Finished building target: Proj13
+ 
+14:31:39 **** Incremental Build of configuration Debug for project Proj2 ****
+make all 
+Building file: ../src/Proj2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj2.d" -MT"src/Proj2.d" -o "src/Proj2.o" "../src/Proj2.cpp"
+../src/Proj2.cpp: In constructor ‘Matrix::Matrix()’:
+../src/Proj2.cpp:21:19: error: expected primary-expression before ‘;’ token
+         arr[5][5]=;
+                   ^
+make: *** [src/Proj2.o] Error 1
+14:31:40 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+make: Nothing to be done for `all'.
+14:31:40 **** Incremental Build of configuration Debug for project Proj4 ****
+make all 
+Building file: ../src/Proj4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj4.d" -MT"src/Proj4.d" -o "src/Proj4.o" "../src/Proj4.cpp"
+../src/Proj4.cpp:270:3: error: expected unqualified-id before ‘while’
+  }while(ch!=4);
+   ^
+../src/Proj4.cpp:271:2: error: expected unqualified-id before ‘return’
+  return 0;
+  ^
+../src/Proj4.cpp:272:1: error: expected declaration before ‘}’ token
+ }
+ ^
+make: *** [src/Proj4.o] Error 1
+14:31:40 **** Incremental Build of configuration Debug for project Proj5 ****
+make all 
+make: Nothing to be done for `all'.
+14:31:40 **** Incremental Build of configuration Debug for project Proj6 ****
+make all 
+make: Nothing to be done for `all'.
+14:31:40 **** Incremental Build of configuration Debug for project Proj7 ****
+make all 
+make: Nothing to be done for `all'.
+14:31:40 **** Incremental Build of configuration Debug for project Proj9 ****
+make all 
+make: Nothing to be done for `all'.
+14:31:42 **** Incremental Build of configuration Debug for project Proj13 ****
+make all 
+make: Nothing to be done for `all'.
+14:34:22 **** Incremental Build of configuration Debug for project MiniPoject ****
+make all 
+Building file: ../src/MiniPoject.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MiniPoject.d" -MT"src/MiniPoject.d" -o "src/MiniPoject.o" "../src/MiniPoject.cpp"
+../src/MiniPoject.cpp: In member function ‘void customer::delete_customer()’:
+../src/MiniPoject.cpp:192:9: warning: variable ‘i’ set but not used [-Wunused-but-set-variable]
+     int i=1;
+         ^
+../src/MiniPoject.cpp: At global scope:
+../src/MiniPoject.cpp:232:1: error: expected unqualified-id before ‘{’ token
+ {
+ ^
+make: *** [src/MiniPoject.o] Error 1
+14:34:22 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+make: Nothing to be done for `all'.
+14:34:22 **** Incremental Build of configuration Debug for project Proj10 ****
+make all 
+make: Nothing to be done for `all'.
+14:34:22 **** Incremental Build of configuration Debug for project Proj11 ****
+make all 
+make: Nothing to be done for `all'.
+14:34:23 **** Incremental Build of configuration Debug for project Proj12 ****
+make all 
+make: Nothing to be done for `all'.
+14:34:23 **** Incremental Build of configuration Debug for project Proj13 ****
+make all 
+make: Nothing to be done for `all'.
+14:34:23 **** Incremental Build of configuration Debug for project Proj2 ****
+make all 
+Building file: ../src/Proj2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj2.d" -MT"src/Proj2.d" -o "src/Proj2.o" "../src/Proj2.cpp"
+../src/Proj2.cpp: In constructor ‘Matrix::Matrix()’:
+../src/Proj2.cpp:21:19: error: expected primary-expression before ‘;’ token
+         arr[5][5]=;
+                   ^
+make: *** [src/Proj2.o] Error 1
+14:34:23 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+make: Nothing to be done for `all'.
+14:34:24 **** Incremental Build of configuration Debug for project Proj4 ****
+make all 
+Building file: ../src/Proj4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj4.d" -MT"src/Proj4.d" -o "src/Proj4.o" "../src/Proj4.cpp"
+Finished building: ../src/Proj4.cpp
+ 
+Building target: Proj4
+Invoking: GCC C++ Linker
+g++  -o "Proj4"  ./src/Proj4.o   
+Finished building target: Proj4
+ 
+14:34:24 **** Incremental Build of configuration Debug for project Proj5 ****
+make all 
+make: Nothing to be done for `all'.
+14:34:24 **** Incremental Build of configuration Debug for project Proj6 ****
+make all 
+make: Nothing to be done for `all'.
+14:34:24 **** Incremental Build of configuration Debug for project Proj7 ****
+make all 
+make: Nothing to be done for `all'.
+14:34:24 **** Incremental Build of configuration Debug for project Proj9 ****
+make all 
+make: Nothing to be done for `all'.
+14:35:16 **** Incremental Build of configuration Debug for project MiniPoject ****
+make all 
+Building file: ../src/MiniPoject.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MiniPoject.d" -MT"src/MiniPoject.d" -o "src/MiniPoject.o" "../src/MiniPoject.cpp"
+../src/MiniPoject.cpp: In member function ‘void customer::delete_customer()’:
+../src/MiniPoject.cpp:192:9: warning: variable ‘i’ set but not used [-Wunused-but-set-variable]
+     int i=1;
+         ^
+../src/MiniPoject.cpp: At global scope:
+../src/MiniPoject.cpp:232:1: error: expected unqualified-id before ‘{’ token
+ {
+ ^
+make: *** [src/MiniPoject.o] Error 1
+14:35:17 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+make: Nothing to be done for `all'.
+14:35:17 **** Incremental Build of configuration Debug for project Proj10 ****
+make all 
+make: Nothing to be done for `all'.
+14:35:17 **** Incremental Build of configuration Debug for project Proj11 ****
+make all 
+make: Nothing to be done for `all'.
+14:35:17 **** Incremental Build of configuration Debug for project Proj12 ****
+make all 
+make: Nothing to be done for `all'.
+14:35:17 **** Incremental Build of configuration Debug for project Proj13 ****
+make all 
+make: Nothing to be done for `all'.
+14:35:17 **** Incremental Build of configuration Debug for project Proj2 ****
+make all 
+Building file: ../src/Proj2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj2.d" -MT"src/Proj2.d" -o "src/Proj2.o" "../src/Proj2.cpp"
+../src/Proj2.cpp: In constructor ‘Matrix::Matrix()’:
+../src/Proj2.cpp:21:19: error: expected primary-expression before ‘;’ token
+         arr[5][5]=;
+                   ^
+make: *** [src/Proj2.o] Error 1
+14:35:18 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+make: Nothing to be done for `all'.
+14:35:18 **** Incremental Build of configuration Debug for project Proj4 ****
+make all 
+Building file: ../src/Proj4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj4.d" -MT"src/Proj4.d" -o "src/Proj4.o" "../src/Proj4.cpp"
+Finished building: ../src/Proj4.cpp
+ 
+Building target: Proj4
+Invoking: GCC C++ Linker
+g++  -o "Proj4"  ./src/Proj4.o   
+Finished building target: Proj4
+ 
+14:35:19 **** Incremental Build of configuration Debug for project Proj5 ****
+make all 
+make: Nothing to be done for `all'.
+14:35:19 **** Incremental Build of configuration Debug for project Proj6 ****
+make all 
+make: Nothing to be done for `all'.
+14:35:19 **** Incremental Build of configuration Debug for project Proj7 ****
+make all 
+make: Nothing to be done for `all'.
+14:35:19 **** Incremental Build of configuration Debug for project Proj9 ****
+make all 
+make: Nothing to be done for `all'.
+14:38:36 **** Incremental Build of configuration Debug for project MiniPoject ****
+make all 
+Building file: ../src/MiniPoject.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MiniPoject.d" -MT"src/MiniPoject.d" -o "src/MiniPoject.o" "../src/MiniPoject.cpp"
+../src/MiniPoject.cpp: In member function ‘void customer::delete_customer()’:
+../src/MiniPoject.cpp:192:9: warning: variable ‘i’ set but not used [-Wunused-but-set-variable]
+     int i=1;
+         ^
+../src/MiniPoject.cpp: At global scope:
+../src/MiniPoject.cpp:232:1: error: expected unqualified-id before ‘{’ token
+ {
+ ^
+make: *** [src/MiniPoject.o] Error 1
+14:38:37 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+make: Nothing to be done for `all'.
+14:38:37 **** Incremental Build of configuration Debug for project Proj10 ****
+make all 
+make: Nothing to be done for `all'.
+14:38:37 **** Incremental Build of configuration Debug for project Proj11 ****
+make all 
+make: Nothing to be done for `all'.
+14:38:37 **** Incremental Build of configuration Debug for project Proj12 ****
+make all 
+make: Nothing to be done for `all'.
+14:38:37 **** Incremental Build of configuration Debug for project Proj13 ****
+make all 
+make: Nothing to be done for `all'.
+14:38:37 **** Incremental Build of configuration Debug for project Proj2 ****
+make all 
+Building file: ../src/Proj2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj2.d" -MT"src/Proj2.d" -o "src/Proj2.o" "../src/Proj2.cpp"
+../src/Proj2.cpp: In constructor ‘Matrix::Matrix()’:
+../src/Proj2.cpp:21:19: error: expected primary-expression before ‘;’ token
+         arr[5][5]=;
+                   ^
+make: *** [src/Proj2.o] Error 1
+14:38:38 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+make: Nothing to be done for `all'.
+14:38:38 **** Incremental Build of configuration Debug for project Proj4 ****
+make all 
+Building file: ../src/Proj4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj4.d" -MT"src/Proj4.d" -o "src/Proj4.o" "../src/Proj4.cpp"
+Finished building: ../src/Proj4.cpp
+ 
+Building target: Proj4
+Invoking: GCC C++ Linker
+g++  -o "Proj4"  ./src/Proj4.o   
+Finished building target: Proj4
+ 
+14:38:39 **** Incremental Build of configuration Debug for project Proj5 ****
+make all 
+make: Nothing to be done for `all'.
+14:38:39 **** Incremental Build of configuration Debug for project Proj6 ****
+make all 
+make: Nothing to be done for `all'.
+14:38:39 **** Incremental Build of configuration Debug for project Proj7 ****
+make all 
+make: Nothing to be done for `all'.
+14:38:39 **** Incremental Build of configuration Debug for project Proj9 ****
+make all 
+make: Nothing to be done for `all'.
+14:38:42 **** Incremental Build of configuration Debug for project Proj4 ****
+make all 
+make: Nothing to be done for `all'.
+14:52:29 **** Incremental Build of configuration Debug for project MiniPoject ****
+make all 
+Building file: ../src/MiniPoject.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MiniPoject.d" -MT"src/MiniPoject.d" -o "src/MiniPoject.o" "../src/MiniPoject.cpp"
+../src/MiniPoject.cpp: In member function ‘void customer::delete_customer()’:
+../src/MiniPoject.cpp:192:9: warning: variable ‘i’ set but not used [-Wunused-but-set-variable]
+     int i=1;
+         ^
+../src/MiniPoject.cpp: At global scope:
+../src/MiniPoject.cpp:232:1: error: expected unqualified-id before ‘{’ token
+ {
+ ^
+make: *** [src/MiniPoject.o] Error 1
+14:52:30 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+make: Nothing to be done for `all'.
+14:52:30 **** Incremental Build of configuration Debug for project Proj10 ****
+make all 
+make: Nothing to be done for `all'.
+14:52:30 **** Incremental Build of configuration Debug for project Proj11 ****
+make all 
+make: Nothing to be done for `all'.
+14:52:30 **** Incremental Build of configuration Debug for project Proj12 ****
+make all 
+make: Nothing to be done for `all'.
+14:52:30 **** Incremental Build of configuration Debug for project Proj13 ****
+make all 
+make: Nothing to be done for `all'.
+14:52:30 **** Incremental Build of configuration Debug for project Proj2 ****
+make all 
+Building file: ../src/Proj2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj2.d" -MT"src/Proj2.d" -o "src/Proj2.o" "../src/Proj2.cpp"
+../src/Proj2.cpp: In constructor ‘Matrix::Matrix()’:
+../src/Proj2.cpp:21:19: error: expected primary-expression before ‘;’ token
+         arr[5][5]=;
+                   ^
+make: *** [src/Proj2.o] Error 1
+14:52:31 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+make: Nothing to be done for `all'.
+14:52:31 **** Incremental Build of configuration Debug for project Proj4 ****
+make all 
+Building file: ../src/Proj4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj4.d" -MT"src/Proj4.d" -o "src/Proj4.o" "../src/Proj4.cpp"
+Finished building: ../src/Proj4.cpp
+ 
+Building target: Proj4
+Invoking: GCC C++ Linker
+g++  -o "Proj4"  ./src/Proj4.o   
+Finished building target: Proj4
+ 
+14:52:31 **** Incremental Build of configuration Debug for project Proj5 ****
+make all 
+make: Nothing to be done for `all'.
+14:52:32 **** Incremental Build of configuration Debug for project Proj6 ****
+make all 
+make: Nothing to be done for `all'.
+14:52:32 **** Incremental Build of configuration Debug for project Proj7 ****
+make all 
+make: Nothing to be done for `all'.
+14:52:32 **** Incremental Build of configuration Debug for project Proj9 ****
+make all 
+make: Nothing to be done for `all'.
+14:52:50 **** Incremental Build of configuration Debug for project Proj4 ****
+make all 
+make: Nothing to be done for `all'.
+08:16:15 **** Incremental Build of configuration Debug for project MiniPoject ****
+make all 
+Building file: ../src/MiniPoject.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MiniPoject.d" -MT"src/MiniPoject.d" -o "src/MiniPoject.o" "../src/MiniPoject.cpp"
+../src/MiniPoject.cpp: In member function ‘void customer::delete_customer()’:
+../src/MiniPoject.cpp:192:9: warning: variable ‘i’ set but not used [-Wunused-but-set-variable]
+     int i=1;
+         ^
+../src/MiniPoject.cpp: At global scope:
+../src/MiniPoject.cpp:232:1: error: expected unqualified-id before ‘{’ token
+ {
+ ^
+make: *** [src/MiniPoject.o] Error 1
+08:16:19 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+make: Nothing to be done for `all'.
+08:16:19 **** Incremental Build of configuration Debug for project Proj10 ****
+make all 
+make: Nothing to be done for `all'.
+08:16:19 **** Incremental Build of configuration Debug for project Proj11 ****
+make all 
+make: Nothing to be done for `all'.
+08:16:19 **** Incremental Build of configuration Debug for project Proj12 ****
+make all 
+make: Nothing to be done for `all'.
+08:16:20 **** Incremental Build of configuration Debug for project Proj13 ****
+make all 
+make: Nothing to be done for `all'.
+08:16:20 **** Incremental Build of configuration Debug for project Proj2 ****
+make all 
+Building file: ../src/Proj2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj2.d" -MT"src/Proj2.d" -o "src/Proj2.o" "../src/Proj2.cpp"
+../src/Proj2.cpp: In constructor ‘Matrix::Matrix()’:
+../src/Proj2.cpp:21:19: error: expected primary-expression before ‘;’ token
+         arr[5][5]=;
+                   ^
+make: *** [src/Proj2.o] Error 1
+08:16:21 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+make: Nothing to be done for `all'.
+08:16:21 **** Incremental Build of configuration Debug for project Proj4 ****
+make all 
+Building file: ../src/Proj4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj4.d" -MT"src/Proj4.d" -o "src/Proj4.o" "../src/Proj4.cpp"
+Finished building: ../src/Proj4.cpp
+ 
+Building target: Proj4
+Invoking: GCC C++ Linker
+g++  -o "Proj4"  ./src/Proj4.o   
+Finished building target: Proj4
+ 
+08:16:23 **** Incremental Build of configuration Debug for project Proj5 ****
+make all 
+make: Nothing to be done for `all'.
+08:16:23 **** Incremental Build of configuration Debug for project Proj6 ****
+make all 
+Building file: ../src/Proj6.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj6.d" -MT"src/Proj6.d" -o "src/Proj6.o" "../src/Proj6.cpp"
+Finished building: ../src/Proj6.cpp
+ 
+Building target: Proj6
+Invoking: GCC C++ Linker
+g++  -o "Proj6"  ./src/Proj6.o   
+Finished building target: Proj6
+ 
+08:16:23 **** Incremental Build of configuration Debug for project Proj7 ****
+make all 
+make: Nothing to be done for `all'.
+08:16:23 **** Incremental Build of configuration Debug for project Proj9 ****
+make all 
+make: Nothing to be done for `all'.
+08:16:26 **** Incremental Build of configuration Debug for project Proj6 ****
+make all 
+make: Nothing to be done for `all'.
+08:21:54 **** Incremental Build of configuration Debug for project MiniPoject ****
+make all 
+Building file: ../src/MiniPoject.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MiniPoject.d" -MT"src/MiniPoject.d" -o "src/MiniPoject.o" "../src/MiniPoject.cpp"
+../src/MiniPoject.cpp: In member function ‘void customer::delete_customer()’:
+../src/MiniPoject.cpp:192:9: warning: variable ‘i’ set but not used [-Wunused-but-set-variable]
+     int i=1;
+         ^
+../src/MiniPoject.cpp: At global scope:
+../src/MiniPoject.cpp:232:1: error: expected unqualified-id before ‘{’ token
+ {
+ ^
+make: *** [src/MiniPoject.o] Error 1
+08:21:55 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+make: Nothing to be done for `all'.
+08:21:55 **** Incremental Build of configuration Debug for project Proj10 ****
+make all 
+make: Nothing to be done for `all'.
+08:21:55 **** Incremental Build of configuration Debug for project Proj11 ****
+make all 
+make: Nothing to be done for `all'.
+08:21:55 **** Incremental Build of configuration Debug for project Proj12 ****
+make all 
+make: Nothing to be done for `all'.
+08:21:55 **** Incremental Build of configuration Debug for project Proj13 ****
+make all 
+make: Nothing to be done for `all'.
+08:21:55 **** Incremental Build of configuration Debug for project Proj2 ****
+make all 
+Building file: ../src/Proj2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj2.d" -MT"src/Proj2.d" -o "src/Proj2.o" "../src/Proj2.cpp"
+../src/Proj2.cpp: In constructor ‘Matrix::Matrix()’:
+../src/Proj2.cpp:21:19: error: expected primary-expression before ‘;’ token
+         arr[5][5]=;
+                   ^
+make: *** [src/Proj2.o] Error 1
+08:21:56 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+make: Nothing to be done for `all'.
+08:21:56 **** Incremental Build of configuration Debug for project Proj4 ****
+make all 
+make: Nothing to be done for `all'.
+08:21:56 **** Incremental Build of configuration Debug for project Proj5 ****
+make all 
+make: Nothing to be done for `all'.
+08:21:56 **** Incremental Build of configuration Debug for project Proj6 ****
+make all 
+make: Nothing to be done for `all'.
+08:21:56 **** Incremental Build of configuration Debug for project Proj7 ****
+make all 
+make: Nothing to be done for `all'.
+08:21:57 **** Incremental Build of configuration Debug for project Proj9 ****
+make all 
+make: Nothing to be done for `all'.
+08:21:57 **** Incremental Build of configuration Debug for project Proj5 ****
+make all 
+make: Nothing to be done for `all'.
+08:22:33 **** Incremental Build of configuration Debug for project Proj5 ****
+make all 
+make: Nothing to be done for `all'.
+08:22:50 **** Incremental Build of configuration Debug for project Proj5 ****
+make all 
+make: Nothing to be done for `all'.
+08:23:15 **** Incremental Build of configuration Debug for project Proj5 ****
+make all 
+make: Nothing to be done for `all'.
+08:24:43 **** Incremental Build of configuration Debug for project MiniPoject ****
+make all 
+Building file: ../src/MiniPoject.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MiniPoject.d" -MT"src/MiniPoject.d" -o "src/MiniPoject.o" "../src/MiniPoject.cpp"
+../src/MiniPoject.cpp: In member function ‘void customer::delete_customer()’:
+../src/MiniPoject.cpp:192:9: warning: variable ‘i’ set but not used [-Wunused-but-set-variable]
+     int i=1;
+         ^
+../src/MiniPoject.cpp: At global scope:
+../src/MiniPoject.cpp:232:1: error: expected unqualified-id before ‘{’ token
+ {
+ ^
+make: *** [src/MiniPoject.o] Error 1
+08:24:43 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+make: Nothing to be done for `all'.
+08:24:43 **** Incremental Build of configuration Debug for project Proj10 ****
+make all 
+make: Nothing to be done for `all'.
+08:24:44 **** Incremental Build of configuration Debug for project Proj11 ****
+make all 
+make: Nothing to be done for `all'.
+08:24:44 **** Incremental Build of configuration Debug for project Proj12 ****
+make all 
+make: Nothing to be done for `all'.
+08:24:44 **** Incremental Build of configuration Debug for project Proj13 ****
+make all 
+make: Nothing to be done for `all'.
+08:24:44 **** Incremental Build of configuration Debug for project Proj2 ****
+make all 
+Building file: ../src/Proj2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj2.d" -MT"src/Proj2.d" -o "src/Proj2.o" "../src/Proj2.cpp"
+../src/Proj2.cpp: In constructor ‘Matrix::Matrix()’:
+../src/Proj2.cpp:21:19: error: expected primary-expression before ‘;’ token
+         arr[5][5]=;
+                   ^
+make: *** [src/Proj2.o] Error 1
+08:24:45 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+make: Nothing to be done for `all'.
+08:24:45 **** Incremental Build of configuration Debug for project Proj4 ****
+make all 
+make: Nothing to be done for `all'.
+08:24:45 **** Incremental Build of configuration Debug for project Proj5 ****
+make all 
+make: Nothing to be done for `all'.
+08:24:45 **** Incremental Build of configuration Debug for project Proj6 ****
+make all 
+make: Nothing to be done for `all'.
+08:24:45 **** Incremental Build of configuration Debug for project Proj7 ****
+make all 
+make: Nothing to be done for `all'.
+08:24:45 **** Incremental Build of configuration Debug for project Proj9 ****
+make all 
+make: Nothing to be done for `all'.
+08:24:47 **** Incremental Build of configuration Debug for project Proj4 ****
+make all 
+make: Nothing to be done for `all'.
+08:26:13 **** Incremental Build of configuration Debug for project MiniPoject ****
+make all 
+Building file: ../src/MiniPoject.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MiniPoject.d" -MT"src/MiniPoject.d" -o "src/MiniPoject.o" "../src/MiniPoject.cpp"
+../src/MiniPoject.cpp: In member function ‘void customer::delete_customer()’:
+../src/MiniPoject.cpp:192:9: warning: variable ‘i’ set but not used [-Wunused-but-set-variable]
+     int i=1;
+         ^
+../src/MiniPoject.cpp: At global scope:
+../src/MiniPoject.cpp:232:1: error: expected unqualified-id before ‘{’ token
+ {
+ ^
+make: *** [src/MiniPoject.o] Error 1
+08:26:14 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+make: Nothing to be done for `all'.
+08:26:14 **** Incremental Build of configuration Debug for project Proj10 ****
+make all 
+make: Nothing to be done for `all'.
+08:26:14 **** Incremental Build of configuration Debug for project Proj11 ****
+make all 
+make: Nothing to be done for `all'.
+08:26:14 **** Incremental Build of configuration Debug for project Proj12 ****
+make all 
+make: Nothing to be done for `all'.
+08:26:14 **** Incremental Build of configuration Debug for project Proj13 ****
+make all 
+make: Nothing to be done for `all'.
+08:26:15 **** Incremental Build of configuration Debug for project Proj2 ****
+make all 
+Building file: ../src/Proj2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj2.d" -MT"src/Proj2.d" -o "src/Proj2.o" "../src/Proj2.cpp"
+../src/Proj2.cpp: In constructor ‘Matrix::Matrix()’:
+../src/Proj2.cpp:21:19: error: expected primary-expression before ‘;’ token
+         arr[5][5]=;
+                   ^
+make: *** [src/Proj2.o] Error 1
+08:26:15 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+make: Nothing to be done for `all'.
+08:26:15 **** Incremental Build of configuration Debug for project Proj4 ****
+make all 
+make: Nothing to be done for `all'.
+08:26:15 **** Incremental Build of configuration Debug for project Proj5 ****
+make all 
+make: Nothing to be done for `all'.
+08:26:16 **** Incremental Build of configuration Debug for project Proj6 ****
+make all 
+make: Nothing to be done for `all'.
+08:26:16 **** Incremental Build of configuration Debug for project Proj7 ****
+make all 
+make: Nothing to be done for `all'.
+08:26:16 **** Incremental Build of configuration Debug for project Proj9 ****
+make all 
+make: Nothing to be done for `all'.
+08:26:17 **** Incremental Build of configuration Debug for project Proj9 ****
+make all 
+make: Nothing to be done for `all'.
+08:26:20 **** Incremental Build of configuration Debug for project Proj9 ****
+make all 
+make: Nothing to be done for `all'.
+08:31:04 **** Incremental Build of configuration Debug for project MiniPoject ****
+make all 
+Building file: ../src/MiniPoject.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MiniPoject.d" -MT"src/MiniPoject.d" -o "src/MiniPoject.o" "../src/MiniPoject.cpp"
+../src/MiniPoject.cpp: In member function ‘void customer::delete_customer()’:
+../src/MiniPoject.cpp:192:9: warning: variable ‘i’ set but not used [-Wunused-but-set-variable]
+     int i=1;
+         ^
+../src/MiniPoject.cpp: At global scope:
+../src/MiniPoject.cpp:232:1: error: expected unqualified-id before ‘{’ token
+ {
+ ^
+make: *** [src/MiniPoject.o] Error 1
+08:31:07 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+make: Nothing to be done for `all'.
+08:31:07 **** Incremental Build of configuration Debug for project Proj10 ****
+make all 
+make: Nothing to be done for `all'.
+08:31:07 **** Incremental Build of configuration Debug for project Proj11 ****
+make all 
+make: Nothing to be done for `all'.
+08:31:08 **** Incremental Build of configuration Debug for project Proj12 ****
+make all 
+make: Nothing to be done for `all'.
+08:31:08 **** Incremental Build of configuration Debug for project Proj13 ****
+make all 
+make: Nothing to be done for `all'.
+08:31:08 **** Incremental Build of configuration Debug for project Proj2 ****
+make all 
+Building file: ../src/Proj2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj2.d" -MT"src/Proj2.d" -o "src/Proj2.o" "../src/Proj2.cpp"
+../src/Proj2.cpp: In constructor ‘Matrix::Matrix()’:
+../src/Proj2.cpp:21:19: error: expected primary-expression before ‘;’ token
+         arr[5][5]=;
+                   ^
+make: *** [src/Proj2.o] Error 1
+08:31:09 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+make: Nothing to be done for `all'.
+08:31:09 **** Incremental Build of configuration Debug for project Proj4 ****
+make all 
+make: Nothing to be done for `all'.
+08:31:09 **** Incremental Build of configuration Debug for project Proj5 ****
+make all 
+make: Nothing to be done for `all'.
+08:31:09 **** Incremental Build of configuration Debug for project Proj6 ****
+make all 
+make: Nothing to be done for `all'.
+08:31:09 **** Incremental Build of configuration Debug for project Proj7 ****
+make all 
+make: Nothing to be done for `all'.
+08:31:09 **** Incremental Build of configuration Debug for project Proj9 ****
+make all 
+make: Nothing to be done for `all'.
+08:31:11 **** Incremental Build of configuration Debug for project Proj11 ****
+make all 
+make: Nothing to be done for `all'.
+08:31:59 **** Incremental Build of configuration Debug for project Proj11 ****
+make all 
+make: Nothing to be done for `all'.
+08:44:01 **** Incremental Build of configuration Debug for project MiniPoject ****
+make all 
+Building file: ../src/MiniPoject.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MiniPoject.d" -MT"src/MiniPoject.d" -o "src/MiniPoject.o" "../src/MiniPoject.cpp"
+../src/MiniPoject.cpp: In member function ‘void customer::delete_customer()’:
+../src/MiniPoject.cpp:192:9: warning: variable ‘i’ set but not used [-Wunused-but-set-variable]
+     int i=1;
+         ^
+../src/MiniPoject.cpp: At global scope:
+../src/MiniPoject.cpp:232:1: error: expected unqualified-id before ‘{’ token
+ {
+ ^
+make: *** [src/MiniPoject.o] Error 1
+08:44:02 **** Incremental Build of configuration Debug for project Practice ****
+make all 
+make: Nothing to be done for `all'.
+08:44:02 **** Incremental Build of configuration Debug for project Proj10 ****
+make all 
+make: Nothing to be done for `all'.
+08:44:02 **** Incremental Build of configuration Debug for project Proj11 ****
+make all 
+Building file: ../src/Proj11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj11.d" -MT"src/Proj11.d" -o "src/Proj11.o" "../src/Proj11.cpp"
+Finished building: ../src/Proj11.cpp
+ 
+Building target: Proj11
+Invoking: GCC C++ Linker
+g++  -o "Proj11"  ./src/Proj11.o   
+Finished building target: Proj11
+ 
+08:44:03 **** Incremental Build of configuration Debug for project Proj12 ****
+make all 
+make: Nothing to be done for `all'.
+08:44:04 **** Incremental Build of configuration Debug for project Proj13 ****
+make all 
+make: Nothing to be done for `all'.
+08:44:04 **** Incremental Build of configuration Debug for project Proj2 ****
+make all 
+Building file: ../src/Proj2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj2.d" -MT"src/Proj2.d" -o "src/Proj2.o" "../src/Proj2.cpp"
+../src/Proj2.cpp: In constructor ‘Matrix::Matrix()’:
+../src/Proj2.cpp:21:19: error: expected primary-expression before ‘;’ token
+         arr[5][5]=;
+                   ^
+make: *** [src/Proj2.o] Error 1
+08:44:04 **** Incremental Build of configuration Debug for project Proj3 ****
+make all 
+make: Nothing to be done for `all'.
+08:44:04 **** Incremental Build of configuration Debug for project Proj4 ****
+make all 
+make: Nothing to be done for `all'.
+08:44:04 **** Incremental Build of configuration Debug for project Proj5 ****
+make all 
+make: Nothing to be done for `all'.
+08:44:05 **** Incremental Build of configuration Debug for project Proj6 ****
+make all 
+make: Nothing to be done for `all'.
+08:44:05 **** Incremental Build of configuration Debug for project Proj7 ****
+make all 
+make: Nothing to be done for `all'.
+08:44:05 **** Incremental Build of configuration Debug for project Proj9 ****
+make all 
+make: Nothing to be done for `all'.
+08:44:06 **** Incremental Build of configuration Debug for project Proj11 ****
+make all 
+make: Nothing to be done for `all'.

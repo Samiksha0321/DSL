@@ -1,0 +1,24 @@
+14:33:19 **** Build of configuration Debug for project Project 2 ****
+make all 
+Building file: ../src/Project 2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Project 2.d" -MT"src/Project\ 2.d" -o "src/Project 2.o" "../src/Project 2.cpp"
+../src/Project 2.cpp:12:1: error: ‘cin’ does not name a type
+ cin>>a>>b;
+ ^
+../src/Project 2.cpp:13:1: error: ‘cout’ does not name a type
+ cout<<a+B;
+ ^
+../src/Project 2.cpp:14:7: error: expected constructor, destructor, or type conversion before ‘;’ token
+ copy();
+       ^
+../src/Project 2.cpp:18:1: error: ‘cout’ does not name a type
+ cout ic;
+ ^
+../src/Project 2.cpp:19:1: error: expected unqualified-id before ‘{’ token
+ {int row=i,columns=j;
+ ^
+make: *** [src/Project 2.o] Error 1
+
+14:33:20 Build Finished (took 220ms)
+

@@ -1,0 +1,59 @@
+//============================================================================
+// Name        : Proj12.cpp
+// Author      : 21153
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <bits/stdc++.h>
+using namespace std;
+
+class sort{
+	int num;
+	float per[50];
+public:
+
+	void get_percentage(){
+		cout<<"Enter no of students: "<<endl;
+		cin>>num;
+		cout<<"Enter the percentage of students: "<<endl;
+		for(int i=0; i<num; i++){
+			cin>>per[i];
+		}
+	}
+
+	void selection_sort(){
+		int min_index;
+		for(int i=0; i<num; i++){
+			min_index = i;
+			for(int j=i+1; j<num; j++){
+				if(per[j] < per[min_index])
+					min_index = j;
+			}
+			swap(per[min_index], per[i]);
+		}
+	}
+
+	void bubble_sort(){
+		for(int i=0; i<num; i++){
+			for(int j=0; j<num-i-1; j++){
+				if((per[j]>per[j+1]))
+					swap(per[j], per[j+1]);
+			}
+		}
+	}
+
+	void display(){
+		cout<<"Top 5 scores are: ";
+		for(int i=0; i<5; i++){
+			cout<<per[i]<<" ";
+		}
+		cout<<endl;
+	}
+};
+
+int main() {
+
+	return 0;
+}

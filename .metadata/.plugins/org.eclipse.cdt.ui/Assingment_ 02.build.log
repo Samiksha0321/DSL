@@ -1,0 +1,15 @@
+14:47:51 **** Incremental Build of configuration Debug for project Assingment_ 02 ****
+make all 
+Building file: ../src/Assingment_ 02.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assingment_ 02.d" -MT"src/Assingment_\ 02.d" -o "src/Assingment_ 02.o" "../src/Assingment_ 02.cpp"
+../src/Assingment_ 02.cpp:17:13: warning: non-static data member initializers only available with -std=c++11 or -std=gnu++11 [enabled by default]
+  int length=0;   //member
+             ^
+../src/Assingment_ 02.cpp:74:29: error: expected initializer before ‘copy’
+ string_l string_l::string_l copy()
+                             ^
+make: *** [src/Assingment_ 02.o] Error 1
+
+14:47:51 Build Finished (took 220ms)
+

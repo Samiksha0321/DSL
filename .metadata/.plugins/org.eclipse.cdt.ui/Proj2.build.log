@@ -1,0 +1,13 @@
+08:44:04 **** Incremental Build of configuration Debug for project Proj2 ****
+make all 
+Building file: ../src/Proj2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Proj2.d" -MT"src/Proj2.d" -o "src/Proj2.o" "../src/Proj2.cpp"
+../src/Proj2.cpp: In constructor ‘Matrix::Matrix()’:
+../src/Proj2.cpp:21:19: error: expected primary-expression before ‘;’ token
+         arr[5][5]=;
+                   ^
+make: *** [src/Proj2.o] Error 1
+
+08:44:04 Build Finished (took 467ms)
+
